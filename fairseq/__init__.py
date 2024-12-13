@@ -1,18 +1,3 @@
-# Copyright (c) 2017-present, Facebook, Inc.
-# All rights reserved.
-#
-# This source code is licensed under the license found in the LICENSE file in
-# the root directory of this source tree. An additional grant of patent rights
-# can be found in the PATENTS file in the same directory.
-
-from .multiprocessing_pdb import pdb
-
-__all__ = ['pdb']
-__version__ = '0.6.0'
-
-import fairseq.criterions
-import fairseq.models
-import fairseq.modules
-import fairseq.optim
-import fairseq.optim.lr_scheduler
-import fairseq.tasks
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c86578045dc25b83fb3be5d5fccc6309a04a215d6e7ed509173a86685bd4b3e
+size 512
